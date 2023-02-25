@@ -1,0 +1,8 @@
+/home/muhammad/SignalRChat/bin/Release/net7.0/publish/SignalRChat
+/home/muhammad/SignalRChat/bin/Release/net7.0/publish/appsettings.Development.json
+/home/muhammad/SignalRChat/bin/Release/net7.0/publish/appsettings.json
+/home/muhammad/SignalRChat/bin/Release/net7.0/publish/libman.json
+/home/muhammad/SignalRChat/bin/Release/net7.0/publish/SignalRChat.dll
+/home/muhammad/SignalRChat/bin/Release/net7.0/publish/SignalRChat.deps.json
+/home/muhammad/SignalRChat/bin/Release/net7.0/publish/SignalRChat.runtimeconfig.json
+/home/muhammad/SignalRChat/bin/Release/net7.0/publish/SignalRChat.pdb
